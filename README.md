@@ -115,21 +115,6 @@ To develop a **full-stack AI-powered web application** that:
 
 ---
 
-## 📊 Evaluation Criteria  
-
-| Category         | Criteria | Max Marks |
-|-----------------|---------------------------|------------|
-| **Frontend**    | Responsive UI, smooth UX  | 15 |
-| **Backend**     | API correctness, error handling | 15 |
-| **Authentication** | Secure JWT-based system | 10 |
-| **AI Model**    | Accurate sentiment classification | 15 |
-| **Database**    | Efficient schema & query handling | 10 |
-| **Dashboard**   | Data visualization & filtering | 15 |
-| **Deployment**  | Live working version | 10 |
-| **Code Quality** | Modular, well-structured code | 10 |
-| **Total**       |  | **100** |
-
----
 
 ## 📌 How to Run the Project  
 
